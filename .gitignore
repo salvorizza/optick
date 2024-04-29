@@ -22,3 +22,6 @@ Publish/
 /samples/UnrealEnginePlugin/GUI/Optick.exe
 samples/UnrealEnginePlugin/Source/ThirdParty/Optick/src
 *.bak
+bin-int/
+obj/
+*.vcxproj
